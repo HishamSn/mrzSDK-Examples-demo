@@ -1,0 +1,7 @@
+#Sun Jun 17 15:25:54 EEST 2018
+base.0=C\:\\Users\\Hisham Snaimeh\\Desktop\\AnylineSDK-Examples\\AnylineSDK-Examples-Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4456f3ec70678739166f3b93b70ee2e9b057c7c5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Hisham Snaimeh\\Desktop\\AnylineSDK-Examples\\AnylineSDK-Examples-Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_232e66e9b1554b86024492b94dda13e61a3a4d59\\classes.dex
+base.1=C\:\\Users\\Hisham Snaimeh\\Desktop\\AnylineSDK-Examples\\AnylineSDK-Examples-Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_232e66e9b1554b86024492b94dda13e61a3a4d59
+file.0=C\:\\Users\\Hisham Snaimeh\\Desktop\\AnylineSDK-Examples\\AnylineSDK-Examples-Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4456f3ec70678739166f3b93b70ee2e9b057c7c5\\classes.dex

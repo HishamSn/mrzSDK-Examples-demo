@@ -1,0 +1,11 @@
+{
+    "comment": "Auto generated file. Manual changes will be overwritten.",
+    "immediateAssets": {
+        "anyline/module_mrz/mrz_scanning.ale": "21cac991718f0e7ffa48e9ba8534dccb",
+        "anyline/module_mrz/trained_models/CNN_OCRB_Gray_0124.enc": "03eec0e706807710848cb5efb64a3108",
+        "anyline/module_mrz/trained_models/mrz_retrain3_17500.enc": "29e09467e390405b48913d4a2397c971"
+    },
+    "lazyAssets": {
+        
+    }
+}

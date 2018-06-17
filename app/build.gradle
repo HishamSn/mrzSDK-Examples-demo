@@ -1,0 +1,50 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        vectorDrawables.useSupportLibrary = true
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionCode 188
+        versionName "3.25.0"
+
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
+        multiDexEnabled true
+    }
+}
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+    maven {
+        url 'https://anylinesdk.blob.core.windows.net/maven/'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support:preference-v14:26.1.0'
+    implementation 'com.android.support:design:26.1.0'
+    implementation 'com.android.support:multidex:1.0.1'
+
+    //include AnylineSDK from locale libs folder
+    //compile(name:'anylinesdk-release-3.25.0', ext:'aar')
+
+    //include AnylineSDK from maven
+    implementation 'io.anyline:anylinesdk:3.25.0@aar'
+
+
+
+    // include the vision-version we need for barcode scanning
+    implementation('com.google.android.gms:play-services-vision:10.0.1') {
+        force = true
+    }
+}
+

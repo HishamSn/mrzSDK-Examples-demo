@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\6249bffb74aba4329affb188bced952ea8486398\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d605bdc0a22fa5b3a713cefe538f304e24dd31cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\473c4597345cf666d8aea26bf2ee5c53bebf1231\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_448088a43c17f7c6284ce5d202afdecdadc83296\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\1637d5e4134a62aad87cc2d17669ece7ccfdf24b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e988a78ed060577d639facc9041f86962a8a010\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\8833aa61f0a0d63509077ba458849e58e54669fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbfe89a8ed66e4dab035ddca39b9afd0b42a0702">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_733cd0a8bb5fa2a538fae48148d619463a6d9b9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\ab35c6abc6a45f3e449ed4ac83d76a51f50e6162\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38ea9717be9c84dd75843ca8ed8def2473f36963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\81a39626f3291f378ce1c7406f324afb7f5268d5\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_77628c4459084afaf5e4cee36b54ebfe2b182c49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\5e66fe57e60033a10f472ddd955aa75aa62b913f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db673ca45de4f4b9d10b091217b67efd1c27f870\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\ab35c6abc6a45f3e449ed4ac83d76a51f50e6162\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2bb41202eae4bed01af594710d06e582b9c6cbf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\123fa304993097fbacbe78c573d5323fbe1352fe\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c35c172df906a8daf7759a7ec8ee9d0886e01a38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\a59ed3ea6ccd9e8eae94e278b1a8d124088a3703\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee5728cf5152598ecdec7f4a59d019c09fea5424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_232e66e9b1554b86024492b94dda13e61a3a4d59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\62b2f3783ee0ef547341263023e336a6da88d275\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f874324b3ad684e2254e86ba48b76cd4ce5fae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\08bb930ef18fbb3e592f1cde9391e7af7ac0d403\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41bb5ffaa60db112e831d244d978061de62b664c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\9a958b7bc532fb6ff371b7e3a49cc9e52b398847\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_797e46ea10e2d1631054eda64cfc1cefab1904c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\5e66fe57e60033a10f472ddd955aa75aa62b913f\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e22964db6679c815849fddccb6aacf37814b9d74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\18b0c189af229bb288093cee9b36964202dc8031\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f042a33767bceacb34d866e9b424a4cbd10b209a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\a8c424589e2cce5c525c386ebbd3ed57c939d667\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="febc85793ed271b9dc4955240fea69688a77edbd">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3ab9e0721b87d8887c38dca93df57b4d542ecf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\2d959d511b9c788dac53b9c8d78d646ea4de3a77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c510bc572fbdccfabc643231d8921a4f84dcdd7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\4da70add4ec5ed7a760b99f84d03476893e27305\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09418c471ca902b366d9bb0669a3404a9d7324ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\81a39626f3291f378ce1c7406f324afb7f5268d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9f67735e8131622967615c0802b07c1d9bd42be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\a59ed3ea6ccd9e8eae94e278b1a8d124088a3703\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ab109c8969c57abb16443d2efec1e3b3f7b46b5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\f0d8b9a392ee3ffb3b1916136193d9e5fcf6f586\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb5d8b5c47b4e5c0184a7986a26bc12cfc51cde3">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaefde64f8a106e0f953880eb0f0a3c7e83dfb2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\7e5ed0a9348fbc80b2cbcfe51d58d3e86d0ab175\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73bceaec9086f3d6836f4a6a0d5b36508ca834f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_afe872960e2e6fce91becf9536c2b338e834ba23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2566e21171dc3034c086b4268b956be7603bfb36">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4456f3ec70678739166f3b93b70ee2e9b057c7c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\123fa304993097fbacbe78c573d5323fbe1352fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28996e63e7ca0d02aa046ea37dce1963fe8859fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hisham Snaimeh\.android\build-cache\d6dfaca405067212370b6a6dc22c23904694baae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Hisham Snaimeh\Desktop\AnylineSDK-Examples\AnylineSDK-Examples-Source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20329740a65727bd5a62050b98fb40b47bd39e99\classes.dex" />
+    </item>
+
+</items>

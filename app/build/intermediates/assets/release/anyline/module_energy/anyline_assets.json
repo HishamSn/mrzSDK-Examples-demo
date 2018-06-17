@@ -1,0 +1,23 @@
+{
+    "comment": "Auto generated file. Manual changes will be overwritten.",
+    "immediateAssets": {
+        "anyline/module_energy/analog_digital_auto_mode.ale": "2d08005f47ff02ff507dc42b1adc30e8",
+        "anyline/module_energy/analog_meter.ale": "775de81ff99d98395a98bfee197aa0a6",
+        "anyline/module_energy/dial_meter.ale": "c6c1f085e8fc89a43b16993fa96be732",
+        "anyline/module_energy/digital_heat_meter.ale": "707748b2136e660317e31064e3d4a0b0",
+        "anyline/module_energy/digital_meter.ale": "f5b4d39ab45119492f2a10a7bcd8d785",
+        "anyline/module_energy/dot_matrix_meter.ale": "ccf4fa513f4b86b7e65bd882fc038ede",
+        "anyline/module_energy/energy_serial.ale": "7ad09c8e3ddb4180fde26edd456e6632",
+        "anyline/module_energy/energy_serial_alnum_3_letters.ale": "a291164b1cabeb173078069309bf7af4",
+        "anyline/module_energy/energy_serial_capital_letters.ale": "65948e223a6fd03bd5ad45647e9baa63",
+        "anyline/module_energy/patternMulti9AndE.json": "aef42e1408607d7858cd48fcadc737a8",
+        "anyline/module_energy/smart_meter_ger.ale": "6e86a2631362cd867099cbdaf8326ab5",
+        "anyline/module_energy/smart_meter_ger_spec.json": "5f17ac9d0a3745efad8dc09b588a4fc5",
+        "anyline/module_energy/trained_models/CNN_SNr_w_CL_special_whiteList.enc": "e3db1768290f244613c763e8a4983dec",
+        "anyline/module_energy/trained_models/CNN_energy_detection_full_half.enc": "722e468ed09dffbe5017ac46cc332b96",
+        "anyline/module_energy/trained_models/CNN_serialnumbers_combined.enc": "2c5b37e027bfb3aa7545a342eddef4e8"
+    },
+    "lazyAssets": {
+        
+    }
+}
